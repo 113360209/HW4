@@ -1,0 +1,6 @@
+﻿  Main.c
+Main.obj : error LNK2019: 在函式 minimummain 中參考了無法解析的外部符號
+Main.obj : error LNK2019: 在函式 maximummain 中參考了無法解析的外部符號
+Main.obj : error LNK2019: 在函式 averagemain 中參考了無法解析的外部符號
+Main.obj : error LNK2019: 在函式 printArraymain 中參考了無法解析的外部符號
+C:\Users\julia\OneDrive\桌面\高階語言程式\HW4\HW4-14\x64\Debug\HW4-14.exe : fatal error LNK1120: 4 個無法解析的外部符號
